@@ -12,7 +12,6 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 {
 
-    	Name		 :   Saurabh Singh
 
 	Age	         :   date.now() - 2001;
 
