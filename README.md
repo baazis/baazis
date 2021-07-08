@@ -1,6 +1,4 @@
 # Hello Zen, I am Saurabh Singh, 19. 
-![image](https://user-images.githubusercontent.com/58622363/124920547-0d7a8380-e015-11eb-9999-42b650ef71cf.png)
-
 
 # Welcome to my Github profile !
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
@@ -14,15 +12,15 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 {
 
-    Name		 :   Saurabh Singh
+    	Name		 :   Saurabh Singh
 
-	   Age	      :   date.now() - 2001;
+	Age	         :   date.now() - 2001;
 
-   	Motto	      :   <strong> Live in Present </strong>
+   	Motto	         :   <strong> Live in Present </strong>
 
-   	Me		      :   [ Passionate, Focused, Hard Working, Responsible, Fast Learner ]
+   	Me		 :   [ Passionate, Focused, Hard Working, Responsible, Fast Learner ]
 
-	   College	      :   Vellore Institute of Technology, Vellore
+	College	         :   Vellore Institute of Technology, Vellore
 
 }
 
