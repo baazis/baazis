@@ -2,6 +2,7 @@
 
 # Welcome to my Github profile !
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
+
 Being a keen learner, I want to be a part of organization where I am able to expand my learnings,
 knowledge and skills and excel in various fields. To secure an opportunity where I can use my
 skills for making a positive contribution. To Enjoy, Work, Learn & Grow.
@@ -18,9 +19,7 @@ skills for making a positive contribution. To Enjoy, Work, Learn & Grow.
 * Blockchain : Solidity 
 
 
- <img src = 'https://image.flaticon.com/icons/svg/1822/1822899.svg' height='30'/> 
- <img src = 'https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg' height='30'/> 
- <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/> 
+ <img src = 'https://image.flaticon.com/icons/svg/1822/1822899.svg' height='30'/> <img src = 'https://banner2.cleanpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg' height='30'/> <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>  
