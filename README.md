@@ -1,5 +1,6 @@
 # Hello Zen, I am Saurabh Singh, 19. 
-https://lh4.googleusercontent.com/k_B4R8SfYEdwfUet1dYtiOlmApzOfmtGCy7NAt5BHoKUSdczog_AvIoj9NX67XWh9523wB7c2ZTptsU_hJy0BQg=w16383
+![image](https://user-images.githubusercontent.com/58622363/124920547-0d7a8380-e015-11eb-9999-42b650ef71cf.png)
+
 
 # Welcome to my Github profile !
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
@@ -10,11 +11,27 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 ### Resume :    https://drive.google.com/file/d/1URyfaH2p75Zcdzc1cEfs7dE1apHlS30l/view
 
 ## ABOUT ME
+
+{
+
+    Name		 :   Saurabh Singh
+
+	   Age	      :   date.now() - 2001;
+
+   	Motto	      :   <strong> Live in Present </strong>
+
+   	Me		      :   [ Passionate, Focused, Hard Working, Responsible, Fast Learner ]
+
+	   College	      :   Vellore Institute of Technology, Vellore
+
+}
+
 - :computer:  I’m currently working on developing my skills in web developing and coding.
 - :robot: I’m currently learning Solidity programming fror developing smart contracts used in blockchain technology.
-- 👯 UI/UX Designer , Full Stack developer, Web developer etc.
+- 👯 UI/UX Designer , Full Stack developer, Web developer etc
 
 ## :computer: Languages that I speak
+
 * Coding : C++, C, Python
 * Front-end development :  HTML, CSS, Boostrap, Javascript, React, Figma
 * Backend development : Flask, MySQL, SQLite
@@ -28,17 +45,15 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 
 ## :computer: Most Languages used
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baazis&layout=compact)](https://github.com/baazis/github-readme-stats)
 
 ## MY GIT STATS
+
 <img src="https://github-readme-stats.vercel.app/api?username=baazis&&show_icons=true&count_private=true&theme=radical"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=baazis&theme=radical"/>
 
 ## Connect with me on
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/saurabh-singh-573361199//" width='30' height='30' >
-<img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/s_baazi/" width='30' height='30'>  
-<img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
-<img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/saurabh-singh-573361199//" width='30' height='30' ><img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/s_baazi/" width='30' height='30'>  <img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
