@@ -17,14 +17,11 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 * Blockchain : Solidity 
 
 
- <img src = 'https://image.flaticon.com/icons/png/512/919/919841.png' height='40'/> <br> <img src = 'https://image.flaticon.com/icons/png/512/919/919839.png' height='40'/> <img src = 'https://image.flaticon.com/icons/png/512/919/919852.png' height='40'/>  
- <img src = 'https://as1.ftcdn.net/jpg/03/04/97/12/500_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg' height='40'/>
+ <img src = 'https://image.flaticon.com/icons/png/512/919/919841.png' height='40'/> <img src = 'https://image.flaticon.com/icons/png/512/919/919839.png' height='40'/> <img src = 'https://image.flaticon.com/icons/png/512/919/919852.png' height='40'/>   <img src = 'https://as1.ftcdn.net/jpg/03/04/97/12/500_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg' height='40'/>
  <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='40'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='40'/> 
- <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png' width='40'/>
- <img src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RQ8rlvfppN1r1CA-mufW0QHaHa%26pid%3DApi&f=1' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='40'/>   <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png' width='35'/>
+
+
 
 ## :computer: Most Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikaxx&layout=compact)](https://github.com/ritikaxx/github-readme-stats)
