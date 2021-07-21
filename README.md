@@ -57,4 +57,4 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ## Blog- saurabhblog.gatsbyjs.io
 
-## YOutube - https://www.youtube.com/channel/UCGh9EBH6eCo3hELJVViVDUw
+## Youtube - https://www.youtube.com/channel/UCGh9EBH6eCo3hELJVViVDUw
