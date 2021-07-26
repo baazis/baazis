@@ -47,9 +47,9 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ## MY GIT STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=baazis&&show_icons=true&count_private=true&theme=chartreuse-merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=baazis&&show_icons=true&count_private=true&theme=nightowl"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baazis&theme=chartreuse-merko"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=baazis&theme=nightowl"/>
 
 ## Connect with me on
 
