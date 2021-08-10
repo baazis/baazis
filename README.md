@@ -53,7 +53,9 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ## Connect with me on
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/saurabh-singh-573361199//" width='30' height='30' ><img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/s_baazi/" width='30' height='30'>  <img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" href="https://www.linkedin.com/in/saurabh-singh-573361199//" width='30' height='30' >
+<img src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" href="https://www.instagram.com/s_baazi/" width='30' height='30'>  
+<img src="https://image.flaticon.com/icons/png/512/733/733579.png" href="https://twitter.com/ISAACOL10082001" width='30' height='30'>  
 
 ### Blog- <a href="https://saurabhblog.gatsbyjs.io">saurabhblog.gatsbyjs.io</a>
 
