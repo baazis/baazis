@@ -53,15 +53,15 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ## Connect with me on
 
-<a href="https://www.instagram.com/s_baazi/" target = _blank>
+<a href="https://www.instagram.com/s_baazi/" target="_blank" >jgjgjgjg
          <img alt="Insta" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg"
          width='30' height='30'>
       </a>
-<a href="https://www.linkedin.com/in/saurabh-singh-573361199/" target = _blank>
+<a href="https://www.linkedin.com/in/saurabh-singh-573361199/" target="_blank" >
          <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png"
          width='30' height='30'>
       </a>
-<a href="https://twitter.com/ISAACOL10082001/" target = _blank>
+<a href="https://twitter.com/ISAACOL10082001/" target="_blank" >
          <img alt="Twitter" src="https://image.flaticon.com/icons/png/512/733/733579.png"
          width='30' height='30'>
       </a>
