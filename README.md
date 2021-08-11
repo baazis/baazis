@@ -53,7 +53,7 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ## Connect with me on
 
-<a href="https://www.instagram.com/s_baazi/" target="_blank" >jgjgjgjg
+<a href="https://www.instagram.com/s_baazi/" target="_blank" >
          <img alt="Insta" src="https://i.pinimg.com/736x/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg"
          width='30' height='30'>
       </a>
