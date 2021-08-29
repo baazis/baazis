@@ -7,6 +7,7 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ### Portfolio : https://sites.google.com/view/saurabh-singh/
 ### Resume :    https://drive.google.com/file/d/1URyfaH2p75Zcdzc1cEfs7dE1apHlS30l/view
+### LinkedIN : https://www.linkedin.com/in/saurabh-singh-573361199/
 
 ## ABOUT ME
 
