@@ -4,31 +4,18 @@
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
  I am a <strong>passionate </strong> learner. I love to live in present and finish one task at a time. Being a keen learner, I want to do something where I am able to expand my learnings, knowledge and skills and excel in various fields. To secure an opportunity where I can use my skills for making a positive contribution. To Enjoy, Work, Learn & Grow.
+ 
 
 ### Portfolio : https://sites.google.com/view/saurabh-singh/
 ### Resume :    https://drive.google.com/file/d/1URyfaH2p75Zcdzc1cEfs7dE1apHlS30l/view
 ### LinkedIN : https://www.linkedin.com/in/saurabh-singh-573361199/
 
-## ABOUT ME
-
-{
-
-
-	Age	         :   date.now() - 2001;
-
-   	Motto	         :   <strong> Live in Present </strong>
-
-   	Me		 :   [ Passionate, Focused, Hard Working, Responsible, Fast Learner ]
-
-	College	         :   Vellore Institute of Technology, Vellore
-
-}
 
 - :computer:  I’m currently working on developing my skills in web developing and coding.
-- :robot: I’m currently learning Solidity programming fror developing smart contracts used in blockchain technology.
+- :robot: I’m currently working on a project to which wiol connect hospitals , patients, doctors and ambulance using a digital pltaform.
 - 👯 UI/UX Designer , Full Stack developer, Web developer etc
 
-## :computer: Languages that I speak
+## :computer: Languages that I know
 
 * Coding : C++, C, Python
 * Front-end development :  HTML, CSS, Boostrap, Javascript, React, Figma
