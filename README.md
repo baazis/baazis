@@ -1,6 +1,10 @@
-# Hello Zen, I am Saurabh Singh, 19. 
+![image](https://user-images.githubusercontent.com/58622363/139921214-0e29ccd1-858c-4724-966d-7d42c46ff85a.png)
 
-# Welcome to my Github profile !
+<h1 align="center">
+   Hello, I am Saurabh Singh, 19.<br><hr>
+ Welcome to my Github profile ! 
+</h1>
+
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
  I am a <strong>passionate </strong> learner. I love to live in present and finish one task at a time. Being a keen learner, I want to do something where I am able to expand my learnings, knowledge and skills and excel in various fields. To secure an opportunity where I can use my skills for making a positive contribution. To Enjoy, Work, Learn & Grow.
