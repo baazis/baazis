@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/58622363/139921214-0e29ccd1-858c-4724-966d-7d42c46ff85a.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58622363/139921214-0e29ccd1-858c-4724-966d-7d42c46ff85a.png" />
+</p>
 
 <h1 align="center">
    Hello, I am Saurabh Singh, 19.<br><hr>
