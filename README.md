@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58622363/139921214-0e29ccd1-858c-4724-966d-7d42c46ff85a.png" />
+  <img src="https://user-images.githubusercontent.com/58622363/155133957-912fb88e-5c7f-4ee9-9269-c9ab0bab3d3c.png" />
 </p>
 
 <h1 align="center">
@@ -22,11 +22,11 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 - :robot: I’m currently working on a project to which wiol connect hospitals , patients, doctors and ambulance using a digital pltaform.
 - 👯 UI/UX Designer , Full Stack developer, Web developer etc
 
-## :computer: Languages that I know
+## :computer: Languages I an Familiar With
 
 * Coding : C++, C, Python
-* Front-end development :  HTML, CSS, Boostrap, Javascript, React, Figma
-* Backend development : Flask, MySQL, SQLite
+* Front-end development :  HTML, CSS, Boostrap, Javascript, React, Vue, Figma, Tailwind UI,
+* Backend development : Flask, MySQL, SQLite, Supabase, Firebase
 * Blockchain : Solidity 
 
 
