@@ -13,7 +13,6 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
  I am a <strong>passionate </strong> learner. I love to live in present and finish one task at a time. Being a keen learner, I want to do something where I am able to expand my learnings, knowledge and skills and excel in various fields. To secure an opportunity where I can use my skills for making a positive contribution. To Enjoy, Work, Learn & Grow.
  
 
-### Portfolio : https://sites.google.com/view/saurabh-singh/
 ### Resume :    https://drive.google.com/file/d/1URyfaH2p75Zcdzc1cEfs7dE1apHlS30l/view
 ### LinkedIN :  https://www.linkedin.com/in/saurabhbaazi/
 
