@@ -10,8 +10,6 @@
 
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
-### LinkedIN :  https://www.linkedin.com/in/saurabhbaazi/
-
 ## :computer: Languages I am Familiar With
 
 * Coding : C++, C, Python
