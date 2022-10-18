@@ -4,20 +4,13 @@
 </p>
 
 <h1 align="center">
-   Hello, I am Saurabh Singh, 20.<br><hr>
+   Hello, I am Saurabh Singh, 21.<br><hr>
  Welcome to my Github profile ! 
 </h1>
 
 STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
-
-### Resume :    https://drive.google.com/file/d/1URyfaH2p75Zcdzc1cEfs7dE1apHlS30l/view
 ### LinkedIN :  https://www.linkedin.com/in/saurabhbaazi/
-
-
-- :computer:  I’m currently working on developing my skills in web developing and coding.
-- :robot: I’m currently working on a project to which would connect hospitals , patients, doctors and ambulance using a digital pltaform.
-- 👯 UI/UX Designer , Full Stack developer, Web developer etc
 
 ## :computer: Languages I am Familiar With
 
@@ -51,6 +44,4 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
 
 ### Youtube - https://www.youtube.com/channel/UCGh9EBH6eCo3hELJVViVDUw
 
-## Personality Test -
-### https://www.16personalities.com/profiles/7a865b57ef265
 
