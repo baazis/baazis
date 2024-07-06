@@ -8,7 +8,7 @@
  Welcome to my Github profile ! 
 </h1>
 
-STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
+Software developer -- Building things
 
 ## :computer: Languages I am Familiar With
 
@@ -38,7 +38,6 @@ STUDENT // VIT, VELLORE // B.TECH '23 BATCH // CSE-INFORMATION SECURITY // 24/7
       </a>
 
 
-### Blog- <a href="https://saurabhblog.gatsbyjs.io">saurabhblog.gatsbyjs.io</a>
 
 ### Youtube - https://www.youtube.com/channel/UCGh9EBH6eCo3hELJVViVDUw
 
